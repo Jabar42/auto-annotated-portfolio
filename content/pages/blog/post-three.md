@@ -6,7 +6,10 @@ title: >-
 colors: colors-b
 date: '2024-01-01'
 author: content/data/team/doris-soto.json
-excerpt: ''
+excerpt: >-
+  Composable Web is revolutionizing ecommerce by enabling flexible, modular
+  architectures that enhance performance, personalization, and scalability for
+  online businesses.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image3.jpg
