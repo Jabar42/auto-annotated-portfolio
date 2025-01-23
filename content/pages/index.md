@@ -14,10 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'We Build Fast, Efficient, and Tailored E-Commerce Solutions'
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    subtitle: "we’re transforming the way online stores connect with their customers. We use the latest technologies, like Next.js and headless CMS, to create ultra-fast, highly customizable e-commerce websites designed to scale with your business.Leave behind the limitations of traditional platforms. With us, you’ll have an optimized website that not only enhances the user experience but also boosts your conversions and positions your brand as a leader in innovation.Ready to take your e-commerce to the next level? \U0001F680"
     styles:
       self:
         height: auto
