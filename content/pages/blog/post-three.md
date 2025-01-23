@@ -1,6 +1,8 @@
 ---
 type: PostLayout
-title: Composable - the future of web
+title: >-
+  Composable Web and the Future of Ecommerce: How Technology Transforms the
+  Shopping Experience
 colors: colors-b
 date: '2024-01-01'
 author: content/data/team/doris-soto.json
