@@ -6,7 +6,7 @@ title: >-
 colors: colors-a
 date: '2024-01-22'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: esta si es una linea que modifique en local
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
